@@ -1,0 +1,15 @@
+{
+  "name": "jsoncss",
+  "version": "1.0.0",
+  "description": "convert json to css",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KCreate/jsoncss.git"
+  },
+  "author": "Leonard Schuetz",
+  "license": "MIT"
+}
