@@ -1,7 +1,7 @@
 {
   "name": "jsoncss",
-  "version": "1.0.0",
-  "description": "convert json to css",
+  "version": "1.0.2",
+  "description": "Convert json to css",
   "main": "index.js",
   "scripts": {
     "test": "node example.js"

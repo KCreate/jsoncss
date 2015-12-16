@@ -1,5 +1,8 @@
 # jsoncss
-npm module that converts json to css
+npm module that converts json to css.
+
+# Why?
+You could combine this with your build process so your server only sends down the needed css to the client. This reduces data usage enormously. For example, Facebook sends down so much css and only uses 10% of it. They could shave off 90% of their css and nobody would notice.
 
 # Usage
 ```javascript
